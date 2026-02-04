@@ -26,3 +26,8 @@ A **React app** that generates color palettes with different styles. Click on a 
 - JavaScript (ES6+)
 - Tailwind CSS
 - HTML5 & CSS3
+
+---
+
+### References  
+https://martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically/
